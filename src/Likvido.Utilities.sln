@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{35DB35F9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Likvido.Utilities.Tests", "Tests\Likvido.Utilities.Tests\Likvido.Utilities.Tests.csproj", "{CAC73BD7-69AF-491E-9079-7CC550CDAEE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Likvido.Utilities.Common", "Likvido.Utilities.Common\Likvido.Utilities.Common.csproj", "{6FDF4C5F-3CC5-4493-B1D7-47E7B1E18061}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Likvido.Utilities", "Likvido.Utilities\Likvido.Utilities.csproj", "{29A7DA0C-0B5E-4804-BE0A-305F3C113724}"
 EndProject
 Global
@@ -24,10 +22,6 @@ Global
 		{CAC73BD7-69AF-491E-9079-7CC550CDAEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC73BD7-69AF-491E-9079-7CC550CDAEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC73BD7-69AF-491E-9079-7CC550CDAEE0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FDF4C5F-3CC5-4493-B1D7-47E7B1E18061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FDF4C5F-3CC5-4493-B1D7-47E7B1E18061}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FDF4C5F-3CC5-4493-B1D7-47E7B1E18061}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FDF4C5F-3CC5-4493-B1D7-47E7B1E18061}.Release|Any CPU.Build.0 = Release|Any CPU
 		{29A7DA0C-0B5E-4804-BE0A-305F3C113724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{29A7DA0C-0B5E-4804-BE0A-305F3C113724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A7DA0C-0B5E-4804-BE0A-305F3C113724}.Release|Any CPU.ActiveCfg = Release|Any CPU

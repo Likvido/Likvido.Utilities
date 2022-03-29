@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Likvido.Utilities.Common.Exceptions
+namespace Likvido.Utilities.Exceptions
 {
     public class InvalidSortingQueryStringException : Exception
     {

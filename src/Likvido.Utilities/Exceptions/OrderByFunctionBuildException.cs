@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Likvido.Utilities.Common.Exceptions
+namespace Likvido.Utilities.Exceptions
 {
     public class OrderByFunctionBuildException : Exception
     {

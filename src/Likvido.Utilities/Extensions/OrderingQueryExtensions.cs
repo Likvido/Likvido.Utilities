@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using Likvido.Utilities.Common.Exceptions;
+using Likvido.Utilities.Exceptions;
 using Likvido.Utilities.Sorting;
 
 namespace Likvido.Utilities.Extensions

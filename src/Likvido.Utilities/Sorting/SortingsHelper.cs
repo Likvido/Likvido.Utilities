@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Likvido.Utilities.Common.Exceptions;
+using Likvido.Utilities.Exceptions;
 
 namespace Likvido.Utilities.Sorting
 {

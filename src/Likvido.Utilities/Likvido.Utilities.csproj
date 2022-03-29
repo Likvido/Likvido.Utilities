@@ -3,8 +3,4 @@
   <Import Project="$(ProjectDir)../shared.props" />
   <Import Project="$(ProjectDir)../version.props" />
 
-  <ItemGroup>
-    <ProjectReference Include="..\Likvido.Utilities.Common\Likvido.Utilities.Common.csproj" />
-  </ItemGroup>
-
 </Project>
