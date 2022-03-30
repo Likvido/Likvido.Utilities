@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using Likvido.Utilities.Sorting;
 
-namespace Likvido.BankReading.Utilities.Extensions
+namespace Likvido.Utilities.Extensions
 {
     public static class QueryExtensions
     {

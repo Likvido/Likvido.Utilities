@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Likvido.BankReading.Utilities.Extensions;
+using Likvido.Utilities.Extensions;
 using Likvido.Utilities.Sorting;
 using Likvido.Utilities.Tests.Helpers;
 using Likvido.Utilitites.Tests.Helpers;
