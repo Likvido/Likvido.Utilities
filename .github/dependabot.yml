@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+  - package-ecosystem: nuget
+    directory: /src/Likvido.Utilities
+    schedule:
+      interval: daily
+  - package-ecosystem: nuget
+    directory: /src/Tests/Likvido.Utilities.Tests
+    schedule:
+      interval: daily
